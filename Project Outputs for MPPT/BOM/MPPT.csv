@@ -1,0 +1,17 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"uF","","C1, C3","CapSmdElc","C-10uf","2"
+"4700","","C2, C4","Koshin 63v 4700 cap","4700","2"
+"uF","","C5, C6, C7","C-1206W","C-1206","3"
+"lcd","","Con1","lcd","lcd","1"
+"1n4148","Diode Small Signal Switching 100V 0.15A 2-Pin SOD-123 T/R","D1, D2","TO254P483X1016X1994-3P","schotky","2"
+"1n4148","Diode Small Signal Switching 100V 0.15A 2-Pin SOD-123 T/R","D3","SOD123","1N5819w","1"
+"ABX00028","Integrated Circuit","IC1","ABX00028","ABX00028","1"
+"L","Inductor","L1, L2","L","L","2"
+"LTST-C150KGKT","LED","LED1, LED2","L-1206","LTST-C150KGKT","2"
+"IRF3205","MOSFET N-CH 55V 110A D2PAK","Q1","DPAK_TO263","IRF3205STRLPBF","1"
+"R-1206","Res1206","R1, R2, R3, R4, R5, R6, R7, R8, R9","R-1206W","R-1206","9"
+"TCon","","T1, T2, T3, T4","2pinCon","Terminal Connector","4"
+"L78M05CDT","Linear Voltage Regulators 15V 0.5A Positive","U1","TO-252","L78M15CDT","1"
+"buck","","U2","DC_BOOST","buck","1"
+"TLP152","OPTOISO 3.75KV GATE DRIVER 6SO-5","U3","TLP152","TLP152(TPL,E","1"
